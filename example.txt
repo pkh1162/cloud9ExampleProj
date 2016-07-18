@@ -1,0 +1,2 @@
+Hello, this is just an example of text file, so I can practice commits
+
