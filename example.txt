@@ -1,2 +1,2 @@
-Hello, this is just an example of text file, so I can practice commits
+Hello, this is just an example of text file, so I can practice commits. Change in this file.
 
